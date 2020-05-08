@@ -1,0 +1,181 @@
+.header{
+    background-color:#316DC3;
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+.icontop{
+    letter-spacing: 1em;
+    font-size: small;
+}
+
+.marhor{
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 20px;
+
+}
+
+#colorlight{
+    background-color:#f7f8fa;
+    
+} 
+
+.para{
+    text-align: justify;
+   padding-left: 20px;
+   padding-right: 20px;
+
+}
+
+
+#intrologo{
+    padding-top: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.introtext{
+    align-items: center;
+    text-align: justify;
+    justify-content: space-around;
+
+}
+
+#colorblue{
+    background-color: #2755E9;
+}
+
+#quantityfooter
+{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    justify-content: center;
+}
+
+#seclogo{
+    padding: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#wd{
+    
+    justify-content: center;
+    text-align: center;
+}
+
+.dim{
+    width: 340px;
+     height: 150px;
+      background-color: white;
+       margin-right: 10px;
+       margin-left: 10px;
+        padding-top: 10px;
+}
+
+.shadow{
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px #f7f8fa;
+}
+
+.box{
+    width: 20px;
+    height: 2cm;
+    background-color: #f7f8fa;
+    margin-bottom: 10px;
+    margin-right: ;
+    padding-top: 20px;
+}
+
+
+#thrlogo{
+    padding: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.tlp{
+    padding-top: 30px;
+}
+
+
+.address{
+    background-color: #25272E;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    justify-content: center;
+}
+
+.wr{
+    color: gray;
+    padding-left: 30px ;
+}
+
+.fotter{
+    background-color:#2755E9 ;
+    color: white;
+    justify-content: center;
+    padding-left: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    align-items: center;
+    align-content: center;
+    vertical-align: middle;
+}
+
+.fsm{
+   
+    display: flex;
+    display:flex-start;
+    letter-spacing: 30px;
+    
+
+    ;
+}
+
+*body{
+    text-align: center;
+}
+.m{
+    color: blue;
+}
+
+
+
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66%;}
+    .col-s-3 {width: 25%;}
+    .col-s-4 {width: 33.33%;}
+    .col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
+  }
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+  }
